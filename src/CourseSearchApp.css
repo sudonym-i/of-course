@@ -1,0 +1,27 @@
+.title{
+    margin-left: 20px;
+}
+
+.main{
+    font-family: monospace;
+}
+.searchbar{
+    margin-left: 20px;
+    border-radius: 7px;
+    color: white;;
+    height: 3em;
+    width: 15em;
+    background-color: rgb(56, 56, 56);
+    box-shadow:  5px 5px 10px rgba(0, 0, 0, 0.897);
+}
+.searchbutton{
+    background-color: rgb(56, 56, 56);
+    color: white;;
+    border-radius: 7px;
+    margin: 20px;
+    height: 3em;
+}
+.window{
+    margin: 20px;
+    font-size: large;
+}
