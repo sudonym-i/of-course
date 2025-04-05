@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  font-family: monospace, 'Droid Sans';
+    background-color: rgb(37, 37, 37);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: white;
+}

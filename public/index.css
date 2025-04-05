@@ -1,0 +1,44 @@
+    .navbar {
+      position: fixed;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+      align-items: start;
+      padding: 0px 20px;
+      margin: 25px;
+  }
+
+    .navbar a {
+      text-decoration: none;
+    }
+
+    #navtitle{
+      color: white;
+      font-weight: 500;
+      font-family: "Lavishly Yours";
+      font-size: 3em;
+      margin-bottom: -15px;
+    } 
+
+    .navbar a:hover {
+      border-radius: 5px;
+    }
+
+    .navbar-links {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+      align-items: start;
+      padding: 0;
+      height: 15em;
+    }
+
+    .link{
+      color: black;
+      font-weight: 500;
+      font-size: 1.5em;
+      background-color: rgb(45, 197, 230);
+      border-radius: 10px;
+      padding: 5px;
+    }
